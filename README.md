@@ -3,7 +3,7 @@
 
 * 🎓 I'm currently studying for BSc (Hons) in Information Technology & Management.
 * 👩‍💻 I am a technology enthusiastic person.
-* ⏳   I recently contributed on lifestyle application(Both Web and Mobile) for NewYork residents: __"WATERrhythms"__
+* ⏳   I recently contributed on a lifestyle application(Both Web and Mobile) for NewYork residents: __"WATERrhythms"__
 * 🌟 I'm familar with technologies like Asp.net core, Blazor, ReactJs
 * ⭐ I’m looking to collaborate on any ASP .NET Core or React projects.
 * 🖋️ I'm a blogger at Medium.com
